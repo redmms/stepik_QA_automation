@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "stepik_QA_automation_vs", "stepik_QA_automation_vs.pyproj", "{0A13477A-63C0-4C9E-BE32-C792A82CBEE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A13477A-63C0-4C9E-BE32-C792A82CBEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A13477A-63C0-4C9E-BE32-C792A82CBEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7AB3269-32C4-48AA-BC6B-B186A743DEC6}
+	EndGlobalSection
+EndGlobal
